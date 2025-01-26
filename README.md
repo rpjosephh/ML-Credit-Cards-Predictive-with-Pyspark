@@ -1,0 +1,1 @@
+![Teks alternatif](gambar.jpg)
