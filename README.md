@@ -1,1 +1,1 @@
-![Teks alternatif](gambar.jpg)
+![Teks alternatif](markdown-banner.jpg)
