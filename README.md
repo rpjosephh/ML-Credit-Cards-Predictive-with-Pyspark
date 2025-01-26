@@ -1,1 +1,1 @@
-![Teks alternatif](markdown-banner.jpg)
+![Teks alternatif](credit.png)
